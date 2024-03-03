@@ -1,6 +1,5 @@
 <?php
 
-ini adley ngacau!
 require 'session.php';
 require '../js/koneksi.php';
 

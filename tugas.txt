@@ -1,0 +1,22 @@
+akademik.sql
+adodb.zip
+
+
+Tugas:
+1. Membuat database MySQL: 
+	Nama DB: akademik
+2. Import file akademik.sql
+3. Membuat Class Mahasiswa
+   Melakukan koneksi ke tabel mahasiswa
+   - method:
+  		1. insert
+		2. update
+		3. delete
+		4. delete_collective
+		5. read
+4. membuat objek (instansiasi objek) mahasiswa
+   - membuat interface HTML:
+     1. untuk menambah data mahasiswa
+     2. untuk mengupdate data mahasiswa
+     3. menghapus data mahasiswa
+     4. membaca dan menampilkan data mahasiswa 
